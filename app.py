@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # Simple Q&A "knowledge base"
 QA_PAIRS = {
-    r'who (is|s) the principal': "Our principal is Mrs. K. Jhankar.",
+    r'who (is|s) the principal': "Our principal is Mr. K. Jhankar.",
     r'What is the school name': "Odisha Adarsha Vidyalaya Patharchepa (OAVP).",
     r'what (are|is) (today|todays) (classes|subjects|timetable|schedule)': "Today's subjects are English, Math, Science, and PE.",
     r'when is the next holiday': "The next holiday is on 14th November (Children's Day).",
